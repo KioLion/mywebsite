@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "githubwebsite"
+version = "0.1.0"
+description = ""
+authors = ["Daniel Brug <db-162175@hs-weingarten.de>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
